@@ -2,4 +2,4 @@
 # [Github pages Live Link](https://stephanees020719.github.io/react-fashion-blog/)
 # [Github link of html version](https://stephanees020719.github.io/react-fashion3/)
 # [Github link for the React App](https://github.com/stephanees020719/react-fashion-blog.git)
-#[codeSandbox link](https://codesandbox.io/s/fashion-blog-c4vrwx)
+# [codeSandbox link](https://codesandbox.io/s/fashion-blog-c4vrwx)
